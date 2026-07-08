@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/fadil-sudo">
-    <img src="https://typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=500&lines=Data+Scientist+🌱;Machine+Learning+Engineer+🤖;AI+Engineer+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=500&lines=Data+Scientist+🌱;Machine+Learning+Engineer+🤖;AI+Engineer+🚀" alt="Typing SVG" />
   </a>
 </p>
 
