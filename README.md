@@ -43,8 +43,8 @@ With a strong foundation in **Data Analytics, Machine Learning, and UI/UX design
 
 ⚡ **My GitHub Metrics:**
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Fadilah's GitHub Stats" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fadil-sudo&show_icons=true&theme=radical" alt="Fadilah's GitHub Stats" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-sudo&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
 </p>
 
 ---
