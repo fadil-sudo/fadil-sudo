@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=500&lines=Data+Scientist+🌱;Machine+Learning+Engineer+🤖;AI+Engineer+🚀" alt="Typing SVG" />
 </p>
+
 ### 🌌 Turning Data into Actionable Intelligence
 
 I am an Information Systems student passionate about bridging the gap between structured data analysis, IoT, and cutting-edge artificial intelligence. I focus on building sustainable, high-impact technologies that solve real-world problems.
