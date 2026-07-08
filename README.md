@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/fadil-sudo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=500&lines=Data+Scientist+🌱;Machine+Learning+Engineer+🤖;AI+Engineer+🚀" alt="Typing SVG" />
+    <img src="https://typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=500&lines=Data+Scientist+🌱;Machine+Learning+Engineer+🤖;AI+Engineer+🚀" alt="Typing SVG" />
   </a>
 </p>
 
@@ -42,8 +42,8 @@ I am an Information Systems student passionate about bridging the gap between st
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadil-sudo&show_icons=true&theme=dark" alt="Fadilah's GitHub Stats" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-sudo&layout=compact&theme=dark" alt="Top Languages" height="150px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fadil-sudo&show_icons=true&theme=dark" alt="Fadilah's GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fadil-sudo&layout=compact&theme=dark" alt="Top Languages" height="150px"/>
 </p>
 
 <h3 align="left">🕹️ Contribution 3D Streak</h3>
