@@ -18,7 +18,7 @@ With a strong foundation in **Data Analytics, Machine Learning, and UI/UX design
 
 ### 🌐 Web Development & Design
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
-![TS](https://img.shields.io/badge/TypeScript-%233178c6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
