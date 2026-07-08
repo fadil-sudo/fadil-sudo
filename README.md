@@ -1,6 +1,6 @@
 # Hi there, I'm Fadilah Nur Yasin 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ptZnd0OTZ0Mms0Y281b3g5Mm00N2xtYmt5ZndwYTN4dW90Z2N0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/befaYZC0ROOGe9jOQ4/giphy.gif" width="35">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=#1A1A1A&width=500&lines=Data+Scientist;Machine+Learning+Engineer;AI+Engineer+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A1A1A&width=500&lines=Data+Scientist;Machine+Learning+Engineer;AI+Engineer+Enthusiast)
 
 ### 🌌 Turning Data into Actionable Intelligence
 
