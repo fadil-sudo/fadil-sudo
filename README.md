@@ -39,17 +39,6 @@ I am an Information Systems student passionate about bridging the gap between st
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadil-sudo&theme=github-compact" alt="Fadilah's Activity Graph" width="100%" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fadil-sudo&show_icons=true&theme=dark" alt="Fadilah's GitHub Stats" height="150px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fadil-sudo&layout=compact&theme=dark" alt="Top Languages" height="150px"/>
-</p>
-
-<h3 align="left">🕹️ Contribution 3D Streak</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadil-sudo&theme=dark" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect!
